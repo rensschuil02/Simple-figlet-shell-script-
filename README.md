@@ -10,7 +10,6 @@ chmod +x *
 sh install.sh
 
 (This command install all requirements packages. )      
- DOne !
  
 usage :
 
