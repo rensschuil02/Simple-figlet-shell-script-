@@ -5,9 +5,7 @@ With this simple figlet shell script u can create figlet art super easy!!
 
 installation:
 
-chmod +x *
-
-sh install.sh
+chmod +x figlet.sh
 
 (This command install all requirements packages. )      
  
